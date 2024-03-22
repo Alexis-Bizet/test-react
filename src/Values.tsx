@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { Box, Card, CardContent, CardMedia, Typography, Grid } from '@mui/material';
 import { useTheme } from '@mui/material/styles';
 import useMediaQuery from '@mui/material/useMediaQuery';

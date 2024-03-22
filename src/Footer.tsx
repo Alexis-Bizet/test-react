@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { Box, Typography, TextField, Button, Grid } from '@mui/material';
 
 function Footer() {
